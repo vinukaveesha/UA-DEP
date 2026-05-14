@@ -1,0 +1,7 @@
+{
+  "member_index": 0,
+  "seed": 0,
+  "temperature": 1.813918113708496,
+  "model_path": "outputs_k_4/models/single_cnn_seed0.pt",
+  "bootstrap_sampling": true
+}

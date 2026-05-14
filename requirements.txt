@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.2
+matplotlib>=3.7
+tqdm>=4.65
+biopython>=1.81
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.0+cpu

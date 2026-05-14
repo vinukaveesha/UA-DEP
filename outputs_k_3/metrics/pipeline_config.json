@@ -1,0 +1,44 @@
+{
+  "data": {
+    "raw_dir": "sars_cov_2_3class_dataset",
+    "processed_dir": "processed",
+    "min_length": 25000,
+    "max_n_fraction": 0.05,
+    "k": 3,
+    "random_state": 42
+  },
+  "train": {
+    "epochs": 30,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "patience": 10,
+    "ensemble_size": 10,
+    "hidden_dim": 128,
+    "dropout": 0.2,
+    "label_smoothing": 0.0,
+    "num_workers": 0,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "reject": {
+    "metric": "ensemble_probability_variance",
+    "min_coverage": 0.8,
+    "tau_grid_size": 200,
+    "threshold_selection_method": "coverage_accuracy"
+  },
+  "paths": {
+    "output_root": "outputs"
+  },
+  "device": "cpu"
+}

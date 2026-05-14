@@ -1,0 +1,7 @@
+{
+  "member_index": 5,
+  "seed": 5,
+  "temperature": 1.5520867109298706,
+  "model_path": "outputs/models/ensemble_member_05_seed_5.pt",
+  "bootstrap_sampling": true
+}

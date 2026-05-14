@@ -1,0 +1,7 @@
+{
+  "member_index": 8,
+  "seed": 8,
+  "temperature": 1.700661063194275,
+  "model_path": "outputs_k_4/models/ensemble_member_08_seed_8.pt",
+  "bootstrap_sampling": true
+}

@@ -1,0 +1,62 @@
+{
+  "train": {
+    "count": 6340,
+    "class_counts": {
+      "alpha": 640,
+      "beta": 671,
+      "delta": 660,
+      "gamma": 668,
+      "jn_1": 647,
+      "omicron_ba1": 621,
+      "omicron_ba2": 628,
+      "omicron_ba5": 634,
+      "xbb": 513,
+      "xbb_1_5": 658
+    }
+  },
+  "calibration": {
+    "count": 906,
+    "class_counts": {
+      "alpha": 92,
+      "beta": 96,
+      "delta": 94,
+      "gamma": 95,
+      "jn_1": 92,
+      "omicron_ba1": 89,
+      "omicron_ba2": 90,
+      "omicron_ba5": 91,
+      "xbb": 73,
+      "xbb_1_5": 94
+    }
+  },
+  "validation": {
+    "count": 906,
+    "class_counts": {
+      "alpha": 91,
+      "beta": 96,
+      "delta": 95,
+      "gamma": 96,
+      "jn_1": 92,
+      "omicron_ba1": 89,
+      "omicron_ba2": 89,
+      "omicron_ba5": 90,
+      "xbb": 74,
+      "xbb_1_5": 94
+    }
+  },
+  "test": {
+    "count": 906,
+    "class_counts": {
+      "alpha": 91,
+      "beta": 96,
+      "delta": 94,
+      "gamma": 95,
+      "jn_1": 93,
+      "omicron_ba1": 89,
+      "omicron_ba2": 90,
+      "omicron_ba5": 91,
+      "xbb": 73,
+      "xbb_1_5": 94
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sampling": "with_replacement",
+  "train_size": 6340,
+  "members": [
+    {
+      "member_index": 0,
+      "seed": 0,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 4044,
+      "duplicate_samples": 2296,
+      "out_of_bag_samples": 2296
+    },
+    {
+      "member_index": 1,
+      "seed": 1,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 3989,
+      "duplicate_samples": 2351,
+      "out_of_bag_samples": 2351
+    },
+    {
+      "member_index": 2,
+      "seed": 2,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 4006,
+      "duplicate_samples": 2334,
+      "out_of_bag_samples": 2334
+    },
+    {
+      "member_index": 3,
+      "seed": 3,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 3980,
+      "duplicate_samples": 2360,
+      "out_of_bag_samples": 2360
+    },
+    {
+      "member_index": 4,
+      "seed": 4,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 3984,
+      "duplicate_samples": 2356,
+      "out_of_bag_samples": 2356
+    },
+    {
+      "member_index": 5,
+      "seed": 5,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 4012,
+      "duplicate_samples": 2328,
+      "out_of_bag_samples": 2328
+    },
+    {
+      "member_index": 6,
+      "seed": 6,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 3993,
+      "duplicate_samples": 2347,
+      "out_of_bag_samples": 2347
+    },
+    {
+      "member_index": 7,
+      "seed": 7,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 4027,
+      "duplicate_samples": 2313,
+      "out_of_bag_samples": 2313
+    },
+    {
+      "member_index": 8,
+      "seed": 8,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 3984,
+      "duplicate_samples": 2356,
+      "out_of_bag_samples": 2356
+    },
+    {
+      "member_index": 9,
+      "seed": 9,
+      "replace": true,
+      "sample_size": 6340,
+      "unique_samples": 4017,
+      "duplicate_samples": 2323,
+      "out_of_bag_samples": 2323
+    }
+  ]
+}

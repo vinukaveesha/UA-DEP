@@ -1,0 +1,6 @@
+{
+  "metric": "ensemble_probability_variance",
+  "tau": 0.0025191732491090654,
+  "min_coverage": 0.8,
+  "threshold_selection_method": "coverage_accuracy"
+}

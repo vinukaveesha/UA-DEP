@@ -1,0 +1,10 @@
+{
+  "num_samples": 9058,
+  "num_classes": 10,
+  "rejection_metric": "ensemble_probability_variance",
+  "threshold_selection_method": "coverage_accuracy",
+  "tau": 0.0025191732491090654,
+  "test_accuracy": 0.9757174392935982,
+  "test_macro_f1": 0.9746100141682422,
+  "cyber_scenarios": 8
+}
