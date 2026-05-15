@@ -45,9 +45,9 @@ python -m pip install -r requirements.txt
 
 ```bash
 python scripts/run_ua_dep.py \
-  --raw-dir sars_cov_2_3class_dataset \
+  --raw-dir sars_cov_2_10class_dataset \
   --processed-dir processed \
-  --output-dir outputs \
+  --output-dir outputs_k_3 \
   --k 3 \
   --epochs 30 \
   --ensemble-size 10 \
